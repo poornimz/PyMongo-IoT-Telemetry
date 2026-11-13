@@ -1,0 +1,6 @@
+{
+  "name": "PyMongo IoT Telemetry & Thermal Anomaly Workbench",
+  "description": "Python pymongo streaming JSON IoT log simulator, MongoDB aggregation pipeline for hourly averages and thermal anomaly detection, and interactive telemetry workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
